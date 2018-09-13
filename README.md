@@ -1,6 +1,6 @@
-# STQRM
-# GREAT AWAKENING
-# FRESH CANVAS
+# STQRM = EMOTION STORM in TAROT readings due to QBREAKO
+# GREAT AWAKENING TOGETHER = i will listen more than speak
+# FRESH CANVAS + ALSO CREATE Ur own REPOs so i can hear and copy U
 
 Create-Collaborators -Force -ErrorAction "SilentlyContinue" | Import-Object "$HEROES"
 > password?
